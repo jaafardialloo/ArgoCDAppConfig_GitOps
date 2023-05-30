@@ -1,5 +1,5 @@
 # ArgoCDAppConfig_GitOps
-This repository is for me to get may hands wet  with gitOps and ArgoCD .
+This repository is for me to get familiarized with gitOps and ArgoCD .
 
 Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. It is designed to automate the deployment and management of applications in a Kubernetes cluster, ensuring that the desired state of the applications matches the actual state.
 
